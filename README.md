@@ -19,7 +19,7 @@ This end-to-end data pipeline project demonstrates enterprise-level data enginee
 
 The project follows a modern cloud-native architecture with the following components:
 
-![Architecture Diagram](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow/assets/143475073/0ea51bdb-99cc-4abf-8ccc-8be721462fc3)
+![Architecture Diagram](https://github.com/auwalmusa/end-to-end_cloud_data_pipeline_for_analytics/blob/main/Architecture%20Diagram.png)
 
 ### Data Flow
 1. **Python Script (extract.py)** → Generates synthetic employee data using Faker
