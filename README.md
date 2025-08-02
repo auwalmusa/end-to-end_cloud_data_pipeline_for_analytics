@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive Extract, Transform, Load (ETL) project that generates synthetic employee data, processes it through Google Cloud Data Fusion, and orchestrates the entire pipeline using Apache Airflow/Composer with BigQuery for data warehousing and Looker Studio for analytics.
 
-## 🎯 Project Overview
+## Project Overview
 
 This end-to-end data pipeline project demonstrates enterprise-level data engineering capabilities with a focus on employee data management:
 
@@ -99,7 +99,7 @@ The Looker Studio dashboard provides comprehensive analytics and insights across
 - **Data Quality Indicators**: Completeness, accuracy, consistency scores
 - **Operational Metrics**: System uptime, error rates, resource utilization
 
-#### 🎯 Dashboard Components
+#### Dashboard Components
 
 **1. Executive Summary Dashboard**
 - High-level business metrics and trends
@@ -146,7 +146,7 @@ The Looker Studio dashboard provides comprehensive analytics and insights across
 - Anomaly detection visualization
 - Comparative period analysis
 
-#### 🔍 Dashboard Insights & Use Cases
+#### Dashboard Insights & Use Cases
 
 **For Data Engineers:**
 - Monitor ETL pipeline performance and reliability
@@ -186,7 +186,7 @@ The Looker Studio dashboard provides comprehensive analytics and insights across
 - Caching mechanisms for frequently accessed data
 - Query optimization and indexing strategies
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Cloud Platform**: Google Cloud Platform (GCP)
 - **Data Integration**: Google Cloud Data Fusion
@@ -197,7 +197,7 @@ The Looker Studio dashboard provides comprehensive analytics and insights across
 - **Infrastructure**: Cloud Storage, Compute Engine
 - **Monitoring**: Cloud Monitoring, Cloud Logging
 
-## 🚀 Key Features
+## Key Features
 
 ### Data Pipeline Features
 - **Automated Data Extraction**: Scheduled and event-driven data collection
