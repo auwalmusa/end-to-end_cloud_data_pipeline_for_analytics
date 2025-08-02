@@ -13,8 +13,6 @@ This end-to-end data pipeline project demonstrates enterprise-level data enginee
 5. **Orchestration**: Automate the complete pipeline using Apache Airflow (Cloud Composer)
 6. **Data Analytics**: Create interactive dashboards and reports using Looker Studio
 
-![ETL Pipeline Overview](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow/assets/143475073/755818fe-1cd3-4e1c-827d-35b963d6f414)
-
 ## 🏗️ Architecture
 
 The project follows a modern cloud-native architecture with the following components:
